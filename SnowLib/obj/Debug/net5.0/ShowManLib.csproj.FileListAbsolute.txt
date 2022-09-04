@@ -1,0 +1,12 @@
+C:\Users\Dean\Desktop\snowman\ShowManLib\obj\Debug\net5.0\ShowManLib.csprojAssemblyReference.cache
+C:\Users\Dean\Desktop\snowman\ShowManLib\obj\Debug\net5.0\ShowManLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dean\Desktop\snowman\ShowManLib\obj\Debug\net5.0\ShowManLib.AssemblyInfoInputs.cache
+C:\Users\Dean\Desktop\snowman\ShowManLib\obj\Debug\net5.0\ShowManLib.AssemblyInfo.cs
+C:\Users\Dean\Desktop\snowman\ShowManLib\obj\Debug\net5.0\ShowManLib.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Desktop\snowman\ShowManLib\bin\Debug\net5.0\ShowManLib.deps.json
+C:\Users\Dean\Desktop\snowman\ShowManLib\bin\Debug\net5.0\ShowManLib.dll
+C:\Users\Dean\Desktop\snowman\ShowManLib\bin\Debug\net5.0\ref\ShowManLib.dll
+C:\Users\Dean\Desktop\snowman\ShowManLib\bin\Debug\net5.0\ShowManLib.pdb
+C:\Users\Dean\Desktop\snowman\ShowManLib\obj\Debug\net5.0\ShowManLib.dll
+C:\Users\Dean\Desktop\snowman\ShowManLib\obj\Debug\net5.0\ref\ShowManLib.dll
+C:\Users\Dean\Desktop\snowman\ShowManLib\obj\Debug\net5.0\ShowManLib.pdb
